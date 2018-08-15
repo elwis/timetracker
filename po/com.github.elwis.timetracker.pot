@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.elwis.timetracker package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.elwis.timetracker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-15 15:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Widgets/Window.vala:10 data/com.github.elwis.timetracker.desktop.in:3
+#: data/com.github.elwis.timetracker.desktop.in:4
+#: data/com.github.elwis.timetracker.appdata.xml.in:5
+msgid "Timetracker"
+msgstr ""
+
+#: src/Widgets/Headerbar.vala:33
+msgid "New Project"
+msgstr ""
+
+#: src/Widgets/Headerbar.vala:34
+msgid "Export to PDF"
+msgstr ""
+
+#: src/Widgets/FavoriteButton.vala:23
+msgid "Favorite project"
+msgstr ""
+
+#: data/com.github.elwis.timetracker.desktop.in:5
+msgid "Simple timetracker"
+msgstr ""
+
+#: data/com.github.elwis.timetracker.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/com.github.elwis.timetracker.desktop.in:11
+msgid "Time;Tracking"
+msgstr ""
+
+#: data/com.github.elwis.timetracker.appdata.xml.in:6
+msgid "Track your time"
+msgstr ""
+
+#: data/com.github.elwis.timetracker.appdata.xml.in:8
+msgid "Track the time spent on different activities"
+msgstr ""
