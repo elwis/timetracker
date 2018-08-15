@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Timetracker
+GenericName=Timetracker
+Comment=Simple timetracker
+Categories=Utility;Productivity;
+Exec=com.github.elwis.timetracker
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Time;Tracking
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+	<id>com.github.elwis.timetracker.desktop</id>
+	<metadata_license>CC0</metadata_license>
+	<name>Timetracker</name>
+	<summary>Track your time</summary>
+	<description>
+		<p>Track the time spent on different activities</p>
+	</description>
+</component>
