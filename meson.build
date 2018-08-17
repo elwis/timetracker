@@ -11,6 +11,10 @@ executable(
 	meson.project_name(),
 	'src/Application.vala',
     'src/Main.vala',
+    'src/Widgets/Window.vala',
+    'src/Widgets/Headerbar.vala',
+    'src/Widgets/FavoriteButton.vala',
+    'src/Widgets/ProjectList.vala',
 	dependencies: [
 		dependency('gtk+-3.0'),
         dependency('granite')

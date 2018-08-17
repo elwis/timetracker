@@ -3,5 +3,6 @@ src/Main.vala
 src/Widgets/Window.vala
 src/Widgets/Headerbar.vala
 src/Widgets/FavoriteButton.vala
+src/Widgets/ProjectList.vala
 data/com.github.elwis.timetracker.desktop.in
 data/com.github.elwis.timetracker.appdata.xml.in

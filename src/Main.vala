@@ -19,8 +19,13 @@
 * Authored by: Stefan Elvestål elwesthal@gmail.com
 */
 
+public const string APP_NAME = "Timetracker";
+public const string TERMINAL_NAME = "timetracker";
+
 public static int main(string[] args){
 
+    Environment.set_application_name(APP_NAME);
+    Environment.set_prgname(APP_NAME);
     var application = new Timetracker.Application();
     return application.run(args);
 }
