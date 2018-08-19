@@ -24,6 +24,8 @@ public class Timetracker.Window : Gtk.ApplicationWindow {
     pane1.position = (50);
     this.add(pane1);
 
+
+    this.set_default_size(600,300);
     this.show_all();
     
     }
